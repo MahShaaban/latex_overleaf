@@ -1,0 +1,59 @@
+Your Paper Title
+Your Name
+Your Department
+April 19, 2022
+
+\begin{document}
+
+% Display the header
+\maketitle
+
+Abstract
+Your introduction goes here! Simply start writing your document and use the Recompile button to view the updated PDF preview. Examples of commonly used commands and features are listed below, to help you get started.
+
+Introduction
+
+Once you're familiar with the editor, you can find various project setting in the Overleaf menu, accessed via the button in the very top left of the editor. To view tutorials, user guides, and further documentation, please visit our help library (https://www.overleaf.com/learn).
+
+Some examples to get started
+
+How to create Sections and Subsections
+
+Simply use the section and subsection commands, as in this example document!
+
+How to include Figures
+
+First you have to upload the image file from your computer using the upload link in the file-tree menu. Then use the includegraphics command to include it in your document. Use the figure environment and the caption command to add a number and a caption to your figure. See the code for Figure 1 in this section for an example.
+
+<Figure goes here>
+This frog was uploaded via the file-tree menu.
+
+How to add Tables
+
+Use the table and tabular environments for basic tables --- see Table 1, for example.
+
+Item  Quantity
+Widgets 42
+Gadgets 13
+
+Table 1. An example table.
+
+How to add Lists
+
+You can make lists with automatic numbering dots
+
+1. Like this,
+2. and like this.
+
+dots or bullet points
+
+- Like this,
+- and like this.
+
+How to format text
+
+To make a text appear in bold, in italics, and underlined.
+
+How to add Citations and a References List
+
+You can simply upload a .bib file containing your BibTeX entries, created with a tool such as JabRef. You can then cite entries from it, like this: [1]. Just remember to specify a bibliography style, as well as the filename of the .bib.

@@ -1,0 +1,6 @@
+[submodule "Part_I_latex_basics"]
+	path = Part_I_latex_basics
+	url = https://git.overleaf.com/624245f5b87625afed8320f4
+[submodule "Part_II_handson"]
+	path = Part_II_handson
+	url = https://git.overleaf.com/6242462eb8762513a58329ac
